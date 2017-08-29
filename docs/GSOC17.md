@@ -7,6 +7,7 @@ Basically, the system is formed by two different environments:
 * On the other hand, in a local environment, a web application implemented under the Django framework has been developed. This system fetch the data through Flask web services from the cloud system, displays them in a web interface and offers to the end user the possibility to display it in a Liquid Galaxy installation by creating and sending the corresponding KMLs files.
 
 To easily understand this system separation, below an image is shown:
+
 ![Infrastructure](https://github.com/LiquidGalaxyLAB/FlOYBD/blob/master/implementacio.png)
 
 It includes a [README](https://github.com/LiquidGalaxyLAB/FlOYBD/blob/master/README.md) with the project details and an install guide if you want to [Install](https://github.com/LiquidGalaxyLAB/FlOYBD/blob/master/docs/INSTALL.md) the full system
