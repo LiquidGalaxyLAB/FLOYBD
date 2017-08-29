@@ -8,9 +8,9 @@ Basically, the system is formed by two different environments:
 To easily understand this system separation, below an image is shown:
 ![Infrastructure](https://github.com/LiquidGalaxyLAB/FlOYBD/blob/master/implementacio.png)
 
-It includes a [README](https://github.com/LiquidGalaxyLAB/FlOYBD/blob/master/README.md) with the project details and an install guide if you want to [Instal](https://github.com/LiquidGalaxyLAB/FlOYBD/blob/master/docs/INSTALL.md) the full system
+It includes a [README](https://github.com/LiquidGalaxyLAB/FlOYBD/blob/master/README.md) with the project details and an install guide if you want to [Install](https://github.com/LiquidGalaxyLAB/FlOYBD/blob/master/docs/INSTALL.md) the full system
 
-#### Link to the commits made during GSoC17
+#### Links to the commits made during GSoC17
 
 FlOYBD : [https://github.com/LiquidGalaxyLAB/FlOYBD/commits/master?author=navijo](https://github.com/LiquidGalaxyLAB/FlOYBD/commits/master?author=navijo)
 
